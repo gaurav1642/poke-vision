@@ -36,7 +36,7 @@ Poke Vision is a modern web application that helps you discover and learn about 
 
 ## 🚀 Live Demo
 
-poke-vision.netlify.app
+(https://poke-vision.netlify.app/)
 
 
 ## 🛠️ Technology Stack
